@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\asus\\Downloads\\data-science\\Machine Learning\\Projects\\Project5\\mysql-connector-j-26.7.0.jar",
+        "c:\\Users\\asus\\Downloads\\mysql-connector-j-26.7.0.jar",
+        "c:\\Users\\asus\\OneDrive\\Desktop\\mysql-connector-j-9.7.0.jar"
+    ]
+}
